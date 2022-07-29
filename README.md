@@ -9,6 +9,6 @@ pre-trained CNN architectures to be our candidate backbone. By means of this Dee
 from the training/fine-tuning phase, in which we reached an Average Precision value (AP) close to 70%, and an overall classification accuracy, on 8 classes, 
 of 65%.
 
-
-  
+### Dataset:
+https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset
 

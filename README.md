@@ -2,10 +2,7 @@
 
 ### Group members:
 
-  Alessio Sentinelli
-  Giuseppe Semeria
-  Laura Monzo
-  Shokoufeh Mansourihafshejani
+  Alessio Sentinelli, Giuseppe Semeria, Laura Monzo, Shokoufeh Mansourihafshejani
 
 This project is for ADVANCED MACHINE LEARNING course.
 The classification and the detection of arthropods is the goal of this work. The model used is the Faster R-CNN approach, tested considering two possible 
